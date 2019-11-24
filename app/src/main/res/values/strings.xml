@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weatherTestApp</string>
+    <string name="today">Сегодня</string>
+    <string name="sixteen_days">16 дней</string>
+</resources>
